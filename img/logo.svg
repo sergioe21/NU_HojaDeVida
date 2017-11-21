@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <linearGradient id="svg_7">
+   <stop offset="0" stop-color="#0b4ae8"/>
+   <stop offset="1" stop-color="#f4b517"/>
+  </linearGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <rect style="vector-effect: non-scaling-stroke;" transform="translate(-201, -253) translate(93, -69) translate(-119, 28) translate(252, 377) scale(0.373041, 0.204152) translate(-252, -377) translate(252, 377) scale(1.23824, 1.14187) translate(-252, -377) translate(571, 377) scale(1.1442, 1.13841) translate(-571, -377)" id="svg_4" height="289" width="319" y="88" x="252" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#ffffff" fill="url(#svg_7)"/>
+  <text transform="translate(-201, -253)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_8" y="305" x="293" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#ffffff" fill="#000000">Sergio Mejia</text>
+ </g>
+</svg>
