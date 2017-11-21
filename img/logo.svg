@@ -1,15 +1,128 @@
-<?xml version="1.0"?>
-<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
- <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
- <defs>
-  <linearGradient id="svg_7">
-   <stop offset="0" stop-color="#0b4ae8"/>
-   <stop offset="1" stop-color="#f4b517"/>
-  </linearGradient>
- </defs>
- <g>
-  <title>Layer 1</title>
-  <rect style="vector-effect: non-scaling-stroke;" transform="translate(-201, -253) translate(93, -69) translate(-119, 28) translate(252, 377) scale(0.373041, 0.204152) translate(-252, -377) translate(252, 377) scale(1.23824, 1.14187) translate(-252, -377) translate(571, 377) scale(1.1442, 1.13841) translate(-571, -377)" id="svg_4" height="289" width="319" y="88" x="252" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="5" stroke="#ffffff" fill="url(#svg_7)"/>
-  <text transform="translate(-201, -253)" xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_8" y="305" x="293" stroke-linecap="null" stroke-linejoin="null" stroke-dasharray="null" stroke-width="0" stroke="#ffffff" fill="#000000">Sergio Mejia</text>
- </g>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="270"
+   height="150"
+   viewBox="0 0 71.437499 39.687501"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5994">
+      <stop
+         style="stop-color:#0000ff;stop-opacity:1;"
+         offset="0"
+         id="stop5990" />
+      <stop
+         style="stop-color:#0000ff;stop-opacity:0;"
+         offset="1"
+         id="stop5992" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5994"
+       id="radialGradient5996"
+       cx="37.041668"
+       cy="50.370537"
+       fx="37.041668"
+       fy="50.370537"
+       r="34.395832"
+       gradientTransform="matrix(1,0,0,0.5714286,-11.717262,-9.5956665)"
+       gradientUnits="userSpaceOnUse" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5994"
+       id="radialGradient6008"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.825948,0.00319015,-0.00345938,-0.89565451,42.421628,312.4198)"
+       cx="37.041668"
+       cy="50.370537"
+       fx="37.041668"
+       fy="50.370537"
+       r="34.395832" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="257.39817"
+     inkscape:cy="75.54064"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:measure-start="0,0"
+     inkscape:measure-end="0,0"
+     inkscape:snap-page="false"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px"
+     inkscape:lockguides="true" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-257.31248)">
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot18"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="scale(0.26458333)"><flowRegion
+         id="flowRegion20"><rect
+           id="rect22"
+           width="70"
+           height="82.85714"
+           x="237.14285"
+           y="128.23396" /></flowRegion><flowPara
+         id="flowPara24" /></flowRoot>    <rect
+       id="rect26"
+       width="68.413689"
+       height="38.931549"
+       x="-6.9027856e-006"
+       y="257.69052"
+       style="fill:url(#radialGradient6008);fill-opacity:1;stroke-width:0.26258385" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.91032028px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.42275798"
+       x="32.647087"
+       y="304.03046"
+       id="text29"
+       transform="scale(1.0438392,0.95800194)"><tspan
+         sodipodi:role="line"
+         id="tspan27"
+         x="32.647087"
+         y="304.03046"
+         style="stroke-width:0.42275798;-inkscape-font-specification:sans-serif;font-family:sans-serif;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal">S M</tspan></text>
+  </g>
 </svg>
